@@ -143,8 +143,53 @@ else :
         print("true")'''
 
 
+#social media login
+'''user_name=input("enter username")
+if user_name=='Gayathri':
+    password=input("enter password")
+    if password=='8642':
+        print("login successful")
+    else:
+        print('wrong password')
+else:
+    print("invalid login credentials")'''
 
 
+'''user_name=input("enter username")
+password=input("enter password")
+if user_name=='Gayathri' and password=='8642':
+    print("login successful")
+  
+else:
+    print("invalid login credentials")'''
+
+
+#bakery different types of cakes
+'''price=int(input("enter cost"))
+if price==1200:
+    print('redvalvet cake')
+elif price==1000:
+    print('choco almond')
+elif price==800:
+    print('chocolate cake')
+elif price==600:
+    print('butterscotch cake')
+else:
+    print('sorry,cake not available')'''
+#pizza
+'''name=input("enter order").lower()
+if name=='bbq pizza':
+    print(1000)
+elif name=='crispy chicken pizza':
+    print(800)
+elif name=='paneer pizza':
+    print(600)
+elif name=='corn pizza':
+    print(400)
+elif name=='french fries coke':
+    print(200)
+else:
+    print('sorry not available')'''
 
 
 
